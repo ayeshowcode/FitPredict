@@ -9,7 +9,6 @@ Predict fitness levels (High, Medium, Low) using machine learning based on perso
   <img src="screenshots/image2.png" alt="Prediction Results" width="45%">
 </div>
 
-*Add your screenshots as `screenshots/image1.png` and `screenshots/image2.png`*
 
 ## ⚡ Quick Start
 
