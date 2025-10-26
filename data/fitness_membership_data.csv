@@ -1,0 +1,101 @@
+age,weight,height,income_lpa,smoker,city,occupation,fitness_level
+65,110.3,1.74,2.85,True,Chicago,retired,Low
+34,68.1,1.78,28.65,False,New York,freelancer,High
+27,72.9,1.8,24.87,False,San Diego,software_engineer,Medium
+22,59.5,1.62,3.12,True,Los Angeles,student,Medium
+70,64.7,1.59,1.92,True,Houston,retired,Low
+52,83.2,1.72,35.56,False,Miami,business_owner,Medium
+19,75.0,1.69,3.45,True,Seattle,student,Medium
+29,95.3,1.82,10.54,False,Boston,teacher,Medium
+60,63.1,1.66,2.64,True,Denver,retired,Low
+56,79.6,1.77,41.33,False,Dallas,entrepreneur,High
+31,71.8,1.73,30.21,True,Atlanta,private_job,Medium
+25,82.1,1.57,8.72,False,Phoenix,government_job,Medium
+38,91.4,1.76,19.32,True,New York,freelancer,High
+36,89.5,1.84,12.15,False,Portland,freelancer,Medium
+50,81.0,1.68,14.02,True,San Diego,manager,Medium
+64,59.4,1.61,2.22,False,Las Vegas,retired,Low
+68,91.7,1.7,0.94,True,Orlando,retired,Low
+61,87.5,1.66,2.15,False,Seattle,retired,Medium
+54,99.8,1.83,37.21,True,New York,business_owner,High
+23,102.1,1.6,2.76,True,Los Angeles,student,Medium
+33,63.4,1.82,28.77,False,Denver,business_owner,High
+71,94.2,1.75,2.18,False,Miami,retired,Low
+57,103.8,1.85,29.67,False,Atlanta,government_job,Medium
+41,70.3,1.74,22.65,True,San Diego,unemployed,Medium
+49,62.1,1.65,17.58,False,Houston,private_job,Medium
+63,57.9,1.58,31.45,True,Chicago,teacher,Medium
+37,74.8,1.63,21.71,False,Boston,freelancer,High
+59,105.2,1.74,34.12,False,Dallas,private_job,Medium
+39,98.3,1.78,12.34,False,Los Angeles,unemployed,Low
+61,112.3,1.67,47.56,True,Seattle,business_owner,High
+26,84.1,1.7,29.22,False,New York,business_owner,High
+45,95.4,1.63,29.01,True,Chicago,private_job,High
+48,106.2,1.9,48.78,False,Miami,private_job,High
+73,70.1,1.76,1.77,True,Houston,retired,Low
+75,100.8,1.75,0.68,True,Phoenix,retired,Low
+58,82.3,1.62,40.64,True,Denver,private_job,High
+61,57.2,1.67,0.57,False,Las Vegas,retired,Low
+27,60.8,1.79,9.23,False,Portland,freelancer,High
+70,108.5,1.82,1.84,True,Chicago,retired,Low
+46,92.7,1.68,12.54,True,New York,unemployed,Medium
+43,56.2,1.53,39.12,False,Boston,unemployed,Medium
+65,62.1,1.63,3.87,False,Miami,retired,Low
+21,68.2,1.77,2.46,True,Seattle,student,Medium
+72,84.7,1.7,1.56,False,Los Angeles,retired,Low
+58,76.0,1.61,50.0,True,Orlando,private_job,High
+55,73.3,1.52,17.38,False,San Francisco,unemployed,Medium
+42,80.2,1.59,26.45,True,Chicago,unemployed,High
+53,111.2,1.86,8.34,False,Houston,private_job,High
+35,91.5,1.68,33.49,True,Atlanta,unemployed,High
+25,106.4,1.58,2.29,False,New York,student,Medium
+55,67.2,1.88,25.23,True,Miami,private_job,High
+46,100.9,1.61,28.95,True,Los Angeles,private_job,High
+19,107.7,1.57,2.96,False,San Francisco,student,Medium
+40,102.2,1.83,30.0,True,Denver,government_job,High
+74,54.5,1.61,3.32,True,Boston,retired,Low
+48,78.4,1.74,24.93,False,Chicago,unemployed,Medium
+22,96.1,1.56,2.86,True,Orlando,student,Medium
+70,90.2,1.69,1.36,True,Seattle,retired,Low
+68,97.5,1.79,3.31,True,Houston,retired,Medium
+61,118.7,1.82,1.13,False,Chicago,retired,Low
+40,94.3,1.8,49.94,True,San Diego,unemployed,High
+31,99.4,1.69,24.05,True,Denver,unemployed,High
+34,72.8,1.83,35.67,False,San Francisco,business_owner,High
+46,71.3,1.82,41.66,True,Boston,business_owner,High
+71,117.8,1.78,1.02,False,Houston,retired,Low
+47,106.3,1.68,38.07,True,Chicago,unemployed,High
+19,63.9,1.59,3.23,False,Portland,student,Medium
+23,57.4,1.81,2.76,False,Chicago,student,Medium
+21,81.0,1.87,0.68,False,Seattle,student,Low
+47,67.2,1.75,6.03,False,Miami,teacher,Medium
+69,99.9,1.65,0.57,False,Denver,retired,Low
+36,54.1,1.81,20.25,False,New York,unemployed,Medium
+70,114.2,1.81,3.08,False,Los Angeles,retired,Low
+68,84.3,1.62,2.22,True,San Francisco,retired,Low
+64,70.5,1.54,1.88,True,Seattle,retired,Low
+54,62.3,1.74,45.07,False,Denver,unemployed,High
+62,98.3,1.5,1.12,False,Portland,retired,Low
+67,113.5,1.73,0.61,True,Chicago,retired,Low
+51,93.6,1.85,14.74,True,Miami,freelancer,High
+38,58.3,1.56,30.0,True,New York,government_job,High
+55,95.8,1.67,50.0,False,Boston,unemployed,High
+41,81.6,1.61,22.19,True,Seattle,freelancer,High
+35,56.0,1.77,12.96,False,Los Angeles,unemployed,Medium
+61,82.3,1.85,2.16,True,Phoenix,retired,Low
+75,87.2,1.73,0.62,True,Chicago,retired,Low
+33,52.4,1.86,34.66,False,San Diego,private_job,High
+35,66.0,1.89,37.38,False,New York,freelancer,High
+30,81.0,1.61,25.59,False,Miami,government_job,Medium
+54,97.4,1.76,30.0,False,Seattle,government_job,Medium
+24,108.8,1.89,4.0,False,Portland,student,Medium
+59,54.0,1.6,21.07,False,Los Angeles,business_owner,Medium
+39,119.8,1.76,28.46,False,Boston,government_job,Medium
+37,62.7,1.85,30.0,True,Chicago,government_job,Medium
+23,79.4,1.85,1.28,False,New York,student,Low
+50,104.2,1.78,10.54,False,Denver,teacher,Medium
+36,52.8,1.57,19.64,False,Los Angeles,business_owner,Medium
+26,112.3,1.54,34.01,False,Miami,private_job,High
+52,60.8,1.8,44.86,False,Portland,freelancer,High
+27,101.1,1.82,28.3,False,New York,business_owner,High
+40,70.0,1.59,28.16,True,San Francisco,government_job,High
