@@ -143,24 +143,8 @@ The model is trained on a curated fitness dataset with:
 - **16 US cities** (Tier 1: NYC, LA, Chicago, etc.; Tier 2: Denver, Atlanta, etc.)
 - **Target variable**: Fitness Level (High, Medium, Low)
 
-## 🔮 Future Enhancements
 
-- [ ] Add more training data for improved accuracy
-- [ ] Implement hyperparameter tuning
-- [ ] Add data visualization dashboard
-- [ ] Deploy to cloud platform (Streamlit Cloud, Heroku)
-- [ ] Create REST API with FastAPI
-- [ ] Add user authentication and history tracking
-- [ ] Include exercise recommendations based on fitness level
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
